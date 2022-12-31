@@ -1,7 +1,7 @@
 # CV
 
 1. My name is __Fyodor Raevskiy__  
-   <img src="mainPic.png" alt="Picture"  style="height: 70%; width:70%;"/>
+   <img src="mainPic.png" alt="Picture"  style="height: 50%; width:50%;"/>
 
 2. Contacts:
    - Telegram: @FyodoRaev
@@ -20,10 +20,10 @@
    - C++ ( in the context of competetive programming)
   
 5. Projects:
-   - Neural Network for MNIST dataset https://github.com/FyodoRaev/MNIST-neural-network
-   - Fifa exploratory Data Analysis (in Russian)https://github.com/FyodoRaev/Sample-ML-Repo/blob/hw02/02.%20Data%20Wrangling/fifaeda/fifaeda.ipynb 
-   - Diabetes dataset EDA(in Russian) https://github.com/FyodoRaev/Sample-ML-Repo/blob/hw04/06.%20Overfittng%20problem/Tinkoff_Generation_3_linear_regression_inclass.ipynb 
-   - Rust Glium Metaballs project https://github.com/FyodoRaev/GliumMetaballs
+   - [Neural Network for MNIST dataset](https://github.com/FyodoRaev/MNIST-neural-network)
+   - [Fifa exploratory Data Analysis (in Russian)](https://github.com/FyodoRaev/Sample-ML-Repo/blob/hw02/02.%20Data%20Wrangling/fifaeda/fifaeda.ipynb) 
+   - [Diabetes dataset EDA(in Russian)](https://github.com/FyodoRaev/Sample-ML-Repo/blob/hw04/06.%20Overfittng%20problem/Tinkoff_Generation_3_linear_regression_inclass.ipynb)
+   - [Rust Glium Metaballs project](https://github.com/FyodoRaev/GliumMetaballs)
   
   
 
