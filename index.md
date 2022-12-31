@@ -1,4 +1,4 @@
-#CV
+# CV
 
 1. My name is __Fyodor Raevskiy__  
    <img src="mainPic.png" alt="Picture"  style="height: 70%; width:70%;"/>
