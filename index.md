@@ -3,7 +3,7 @@
 1. My name is __Fyodor Raevskiy__  
    <img src="mainPic.png" alt="Picture"  style="height: 50%; width:50%;"/>
 
-2. Contacts:
+2. # Contacts:
    - Telegram: @FyodoRaev
    - Discord:  FyodoRaev#2654
 
