@@ -7,7 +7,7 @@
 3. # Contacts:
    - Telegram: @FyodoRaev
    - Email:  xboxraevskii@mail.ru    
-4. My education:
+4. Education:
    - Saint Petersburg State University, Faculty of Mathematics and Computer Science
    - Saint Petersburg Presidential Physics and Mathematics Lyceum No. 239 (High school)
    - Tinkoff Generation Machine Learning programm 
